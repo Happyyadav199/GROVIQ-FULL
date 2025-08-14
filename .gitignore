@@ -1,0 +1,8 @@
+build/
+.flutter-plugins
+.packages
+.pub/
+.idea/
+.vscode/
+android/.gradle/
+ios/Pods/
